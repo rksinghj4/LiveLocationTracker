@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew :app:assembleRelease)",
+      "Bash(./gradlew :app:installDebug --no-build-cache --rerun-tasks)",
+      "Bash(adb logcat *)",
+      "Bash(adb shell *)"
+    ]
+  }
+}

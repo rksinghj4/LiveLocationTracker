@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude no-op; nothing to back up locally yet. -->
+</full-backup-content>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiveLocationTracker</string>
+    <string name="title_live_location">Live Location</string>
+
+    <!-- Permissions -->
+    <string name="permission_rationale_title">Location permission needed</string>
+    <string name="permission_rationale_body">We use your location to display your current latitude, longitude, and address. Your location never leaves your device except to look up the address from OpenStreetMap.</string>
+    <string name="permission_grant">Grant permission</string>
+    <string name="permission_denied_permanently">You\'ve permanently denied location permission. Open app settings to enable it.</string>
+    <string name="open_settings">Open settings</string>
+
+    <!-- Location services -->
+    <string name="location_services_disabled_title">Location services are off</string>
+    <string name="location_services_disabled_body">Turn on device location to receive live updates.</string>
+    <string name="enable_location">Enable location</string>
+
+    <!-- States -->
+    <string name="loading_location">Locating…</string>
+    <string name="error_generic">Something went wrong. Pull to refresh.</string>
+    <string name="address_loading">Resolving address…</string>
+    <string name="address_unavailable">Address unavailable</string>
+
+    <!-- Labels -->
+    <string name="label_latitude">Latitude</string>
+    <string name="label_longitude">Longitude</string>
+    <string name="label_accuracy">Accuracy</string>
+    <string name="label_timestamp">Updated</string>
+    <string name="label_address">Address</string>
+
+    <string name="content_desc_pin">Map pin</string>
+    <string name="user_agent">LiveLocationTracker/1.0 (Android)</string>
+</resources>
